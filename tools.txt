@@ -1,0 +1,17 @@
+Tools used:
+1.GCC compiler
+2.Code Blocks to execute the code
+3.Graph generator
+
+Input:256-bit key and 128-bit IV
+Output:
+       * 128-bit keystream for one cycle
+       * The Keystream generated for once cycle is taken as IV for next cycle
+       * The length of the keystream can be increased up to 100 Mb or more 
+The output is stored in 'output.txt' file
+
+To run the program:
+1.Copy and paste the code to any C compatible editor and run it.The output is stored in the filename specified in program.
+  
+
+        
