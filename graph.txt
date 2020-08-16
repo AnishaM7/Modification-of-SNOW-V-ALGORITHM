@@ -1,0 +1,7 @@
+# Graph
+The following table shows the execution time for the SNOW-V code. Each observation is made on outputs of different length.
+![graph](https://user-images.githubusercontent.com/62882541/90338028-5643db00-e004-11ea-918e-cfce6e95449e.PNG)
+
+## Linear Graph
+
+![lineg](https://user-images.githubusercontent.com/62882541/90338053-80959880-e004-11ea-80c3-85b504d5874c.PNG)
