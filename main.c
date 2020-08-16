@@ -245,5 +245,4 @@ for(i=0;i<1000;i++){
 }
 return 0;
 }
-main.c
-Displaying main.c.
+
