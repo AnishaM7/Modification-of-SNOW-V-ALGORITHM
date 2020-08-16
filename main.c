@@ -1,23 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-main 
-Meet
-Start a meeting
-Join a meeting
-Hangouts
-
-Final code
-
-Anisha M <gowrianisha@gmail.com>
-Attachments
-Sat, Apr 18, 6:07 PM
-to asha
-
-
-Attachments area
-
 #include <stdint.h>
 #include <stdlib.h>
 #include<stdio.h>
